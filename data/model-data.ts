@@ -40,7 +40,7 @@ export const modelData: ModelData = {
   // Optional fields left blank are automatically hidden.
   details: {
     age: "9 years" ,
-    dateOfBirth: "19-10-2016",
+    dateOfBirth: "19 Oct 2016",
     height: "",
     weight: "29 Kg",
     Bust: "",
@@ -57,7 +57,7 @@ export const modelData: ModelData = {
   // Leave blank to hide them entirely.
   parents: {
     fatherName: "Mr. Aakash Pandey",
-    motherName: "Mrs.Jayanit Tiwari",
+    motherName: "Mrs. Jayanti Tiwari",
   },
 
   // Instagram handle WITHOUT the @ (managed by parents/agency).
